@@ -63,3 +63,9 @@ bot-farm/
 Shared engine deployed in September 2026; characters launched and iterated since 2026.
 
 Source code will be added after sanitisation.
+
+## Contact
+
+Open to custom character-bot builds and engine set-ups.
+
+Maggie Yue · Hangzhou Zhenbao Trading Co., Ltd. · [sales@zhenbaotrading.com](mailto:sales@zhenbaotrading.com)
